@@ -1,8 +1,6 @@
 👋 Hi, I'm Adam Mosaad! I'm a Software Engineer who build's Software to change the world and people's live's around me.  
-
-
 # About Me
-- I bring in a fusion of strong discipline, extreme focus, and a technical expertise to the programming world. My passion lies in not only solving problems, but building Software that will impact others in a significant way and make their live's easier.
+I bring in a fusion of strong discipline, extreme focus, and a technical expertise to the programming world. My passion lies in not only solving problems, but building Software that will impact others in a significant way and make their live's easier.
 
 
 # Technical Skills

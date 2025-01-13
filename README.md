@@ -1,23 +1,23 @@
 👋 Hi, I'm Adam Mosaad! I'm a Software Engineer who build's Software to change the world and people's live's around me.  
 
 
-About Me
+#About Me
 
 I bring in a fusion of strong discipline, extreme focus, and a technical expertise to the programming world. My passion lies in not only solving problems, but building thing's that will impact others in a significant
 way and make their live's easier.
 
 
-Technical Skills
+#Technical Skills
 
 Languages: HTML, CSS, JavaScript
 Framework & Libraries: React.js, Node.js, Express.js
 Databases: PostgreSQL, MongoDB
 Tools & Platforms: GitHub, Docker, Vercel
 
-Key Projects
+#Key Projects
 
 
-Professional Goals
+#Professional Goals
 Career Development: I'm committed to advancing my skills and taking my career further into the field of Software Development, while continuing to create meaningful and innovative solutions.
 
 Continuous Learning: I'm dedicated to continuous professional growth by staying up to date with the latest tech trend's and advancing my skills everyday.

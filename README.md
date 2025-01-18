@@ -2,10 +2,10 @@
 # About Me
 I bring in a fusion of strong discipline, extreme focus, and a technical expertise to the programming world. My passion lies in not only solving problems, but building Software that will impact others in a significant way and make their live's easier.
 # Technical Skills
-- Languages: HTML, CSS, JavaScript
+- Languages: HTML, CSS, TypeScript, JavaScript
 - Framework & Libraries: React.js, Node.js, Express.js
 - Databases: PostgreSQL, MongoDB
-- Tools & Platforms: GitHub, Docker, Vercel
+- Tools & Platforms: GitHub, Docker, Vercel, Bash, Nano
 # Key Projects
 
 # Professional Goals

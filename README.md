@@ -4,7 +4,7 @@ I bring in a fusion of strong discipline, extreme focus, and a technical experti
 # Technical Skills
 - Languages: HTML, CSS, TypeScript, JavaScript, Java, C#, Python
 - Framework & Libraries: React.js, Express.js, Spring Boot, .NET, LINQ, Django
-- Databases: PostgreSQL, MongoDB, Reddis, Elasticsearch
+- Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
 - Tools & Platforms: GitHub, Docker, Vercel, Bash, Nano
 # Key Projects
 
